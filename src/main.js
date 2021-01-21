@@ -96,6 +96,14 @@ const WebCreateJS = {
                 document.body.appendChild(c92w46);
                 document.body.appendChild(u7s9de);
                 break;
+            case "article":
+                const gn1r8d = document.createElement("h2");
+                gn1r8d.innerText = params.title;
+                const s8xt1f = params.content;
+                for (let t65xuz = 0; t65xuz < c92w46.length; t65xuz++) {
+
+                }
+                break;
         }
     }
 };
