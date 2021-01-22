@@ -7,7 +7,7 @@ But **MUCH** easier.
 And it does the same things!
 
 ## How to use it  
----
+
 ### Getting set up
 Always start with this:
 ```javascript
