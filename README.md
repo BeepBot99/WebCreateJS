@@ -40,7 +40,7 @@ The first thing you do is always `WebCreateJS.init()`.
       </tr>
     </tbody>
   </table>
-</details>
+</details>  
 ```javascript
 window.addEventListener("DOMContentLoaded", () => {
   WebCreateJS.init("light");
