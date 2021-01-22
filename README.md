@@ -35,7 +35,7 @@ The first thing you do is always `WebCreateJS.init()`.
     <tbody>
       <tr>
         <td>colorScheme</td>
-        <td>Color Scheme for webpage. Accepts <code>"light"</code>, <code>"dark"</code>, and objects with `bgMain`, `bgOther`, `txtMain`, `txtOther`, `accent1`, `accent2`, `accent3`, `accent4`, `accent5`, `accent6`, `lnk`, `lnkHover`, `lnkActive`, and `lnkClicked` as css colors.</td>
+        <td>Color Scheme for webpage. Accepts <code>"light"</code>, <code>"dark"</code>, and objects with <code>bgMain</code>, <code>bgOther</code>, <code>txtMain</code>, <code>txtOther</code>, <code>accent1</code>, <code>accent2</code>, <code>accent3</code>, <code>accent4</code>, <code>accent5</code>, <code>accent6</code>, <code>lnk</code>, <code>lnkHover</code>, <code>lnkActive</code>, and <code>lnkClicked</code> as css colors.</td>
         <td><code>WebCreateJS.init("light");</code></td>
       </tr>
     </tbody>
