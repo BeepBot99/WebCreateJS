@@ -7,9 +7,8 @@ But **MUCH** easier.
 And it does the same things!
 
 ## How to use it  
->
-  >
-    >IMPORTANT: Include JavaScript in the head, with WebCreateJS **_BEFORE_** your JavaScript
+
+>IMPORTANT: Include JavaScript in the head, with WebCreateJS **_BEFORE_** your JavaScript
 
 ### Getting set up
 Always start with this:
