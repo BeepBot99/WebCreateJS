@@ -45,3 +45,4 @@ The first thing you do is always `WebCreateJS.init()`.
 window.addEventListener("DOMContentLoaded", () => {
   WebCreateJS.init("light");
 });
+```
