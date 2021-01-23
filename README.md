@@ -83,3 +83,21 @@ window.addEventListener("DOMContentLoaded", () => {
   WebCreateJS.add("header", { text: "I am a header." });
 });
 ```
+### Articles
+```
+elmt: "article"
+params: {
+  title: "title",
+  content: [
+    {
+      type: "text",
+      content: "paragraph content"
+    },
+    {
+      type: "image",
+      source: "url.com/path/to-image",
+      float: "right/left/default"
+    }
+  ]
+}
+```
