@@ -54,10 +54,28 @@ window.addEventListener("DOMContentLoaded", () => {
 ### WebCreateJS.add()  
 To add something to the end of the webpage, use `WebCreateJS.add()`.  
 Syntax:  
-| Parameter             | Description            | Example               |
-| --------------------- | ---------------------- | --------------------- |
-| `elmt`                | What to add            | `WebCreateJS.add("header");` |
-| `params` | Data | `WebCreateJS.add("header", { text: "I am a header." });` |
+<table>
+<thead>
+<tr>
+<th>Parameter</th>
+<th>Description</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>elmt</code></td>
+<td>What to add</td>
+<td><code>WebCreateJS.add(&quot;header&quot;);</code></td>
+</tr>
+<tr>
+<td><code>params</code></td>
+<td>Data</td>
+<td><code>WebCreateJS.add(&quot;header&quot;, { text: &quot;I am a header.&quot; });</code></td>
+</tr>
+</tbody>
+</table>
+
 
 ```javascript
 window.addEventListener("DOMContentLoaded", () => {
