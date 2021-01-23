@@ -56,7 +56,8 @@ To add something to the end of the webpage, use `WebCreateJS.add()`.
 Syntax:  
 Parameter | Description | Example
 --- | --- | ---
-`elmt` | What to add | `WebCreateJS.add("header", { text: "I am a header." });`
+`elmt` | What to add | `WebCreateJS.add("header");`
+`params` | Data | `WebCreateJS.add("header", { text: "I am a header." });`
 
 ```javascript
 window.addEventListener("DOMContentLoaded", () => {
