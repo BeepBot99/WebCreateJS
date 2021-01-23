@@ -101,3 +101,18 @@ params: {
   ]
 }
 ```
+```javascript
+    WebCreateJS.add("article", {
+        title: "I am an article.",
+        content: [{
+                type: "image",
+                source: "https://th.bing.com/th/id/OIP.ZVH1cppOmnZlNe75vjgNagHaEI?pid=Api&rs=1",
+                float: "right"
+            },
+            {
+                type: "text",
+                content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie sem sit amet justo mollis maximus. Proin vitae euismod nisi. In accumsan odio vitae aliquam elementum. Sed volutpat metus mauris. Cras tortor nulla, malesuada ut pulvinar vel, fermentum ac metus. Sed ligula tellus, tempus in ornare eu, consectetur vel felis. Duis sollicitudin massa non ipsum iaculis ultrices. Aliquam vitae arcu ullamcorper, cursus lectus ac, auctor purus. Mauris aliquam convallis elementum.Integer venenatis vitae ex vel dignissim. Cras sit amet tortor eget odio cursus egestas vitae at sapien. Sed condimentum felis vitae nisl cursus vulputate. Mauris suscipit in dolor nec posuere. Donec vel efficitur mauris, vel euismod nisi. Sed ac ipsum congue, vulputate leo et, lobortis orci. Curabitur tortor urna, porttitor vel ligula eget, fringilla rhoncus lorem. Aenean eget iaculis neque.\nInteger venenatis vitae ex vel dignissim. Cras sit amet tortor eget odio cursus egestas vitae at sapien. Sed condimentum felis vitae nisl cursus vulputate. Mauris suscipit in dolor nec posuere. Donec vel efficitur mauris, vel euismod nisi. Sed ac ipsum congue, vulputate leo et, lobortis orci. Curabitur tortor urna, porttitor vel ligula eget, fringilla rhoncus lorem. Aenean eget iaculis neque. Nulla venenatis ante et mi sagittis, ut pretium lorem laoreet. Nulla facilisi. Suspendisse ultrices ac libero in dignissim. Vivamus a ligula imperdiet, facilisis ex at, pulvinar libero. Cras ultrices ante vitae porta suscipit.Hello There Again! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie sem sit amet justo mollis maximus. Proin vitae euismod nisi. In accumsan odio vitae aliquam elementum. Sed volutpat metus mauris. Cras tortor nulla, malesuada ut pulvinar vel, fermentum ac metus. Sed ligula tellus, tempus in ornare eu, consectetur vel felis. Duis sollicitudin massa non ipsum iaculis ultrices. Aliquam vitae arcu ullamcorper, cursus lectus ac, auctor purus. Mauris aliquam convallis elementum.Integer venenatis vitae ex vel dignissim. Cras sit amet tortor eget odio cursus egestas vitae at sapien. Sed condimentum felis vitae nisl cursus vulputate. Mauris suscipit in dolor nec posuere. Donec vel efficitur mauris, vel euismod nisi. Sed ac ipsum congue, vulputate leo et, lobortis orci. Curabitur tortor urna, porttitor vel ligula eget, fringilla rhoncus lorem. Aenean eget iaculis neque. Integer venenatis vitae ex vel dignissim. Cras sit amet tortor eget odio cursus egestas vitae at sapien. Sed condimentum felis vitae nisl cursus vulputate. Mauris suscipit in dolor nec posuere. Donec vel efficitur mauris, vel euismod nisi. Sed ac ipsum congue, vulputate leo et, lobortis orci. Curabitur tortor urna, porttitor vel ligula eget, fringilla rhoncus lorem. Aenean eget iaculis neque. Nulla venenatis ante et mi sagittis, ut pretium lorem laoreet. Nulla facilisi. Suspendisse ultrices ac libero in dignissim. Vivamus a ligula imperdiet, facilisis ex at, pulvinar libero. Cras ultrices ante vitae porta suscipit."
+            }
+        ]
+    });
+    ```
