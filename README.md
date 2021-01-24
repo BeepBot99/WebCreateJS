@@ -76,7 +76,7 @@ Syntax:
 </tbody>
 </table>
 
-
+### Headers
 ```javascript
 window.addEventListener("DOMContentLoaded", () => {
   WebCreateJS.init("light");
