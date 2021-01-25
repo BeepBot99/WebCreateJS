@@ -115,10 +115,16 @@ params: {
             }
         ]
     });
-    ```  
-    
-    
-    
-    
-    
-## C
+```    
+## Charts
+### Pie Charts
+```javascript
+    WebCreateJS.add("pieChart", {
+        radius: 150,
+        content: {
+            "Donald Trump": 74111419,
+            "Joe Biden": 81009468
+        },
+        colors: ["#f00", "#00f"]
+    });
+```
